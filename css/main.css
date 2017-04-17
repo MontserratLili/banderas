@@ -1,0 +1,16 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+#uno{
+    background-color: yellow; 
+    padding-bottom: 30px;
+}
+#dos{
+    background-color: fuchsia;
+    padding-bottom: 30px;
+    border: 1px solid #000000;
+}
+#tres{
+    background-color: yellow;
+    padding-bottom: 30px;
+}
