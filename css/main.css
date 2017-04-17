@@ -1,16 +1,32 @@
 body{
     font-family: 'Raleway', sans-serif;
+    float: center;
+    
 }
 #uno{
+    position: relative;
     background-color: yellow; 
-    padding-bottom: 30px;
+    padding: 5px 5px 30px 5px;
+    margin: 10px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
 }
 #dos{
+    position: relative;
     background-color: fuchsia;
-    padding-bottom: 30px;
-    border: 1px solid #000000;
+    padding: 5px 5px 30px 5px;
+    margin: 10px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
 }
 #tres{
+    position: relative;
     background-color: yellow;
-    padding-bottom: 30px;
+    padding: 5px 5px 30px 5px;
+    margin: 10px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
 }
